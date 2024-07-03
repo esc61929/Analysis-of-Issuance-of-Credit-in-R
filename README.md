@@ -6,8 +6,9 @@ Dataset: https: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility
 
 1: Executive Summary <br>
 2: Analysis of Variables <br>
-  a. R files: Qualitative Variable R file and Quantitative Variable R file <br>
-  b. Word doc: Variable Analysis <br>
-3. Data Visualizations <br>
-4. Feature Selection <br>
-5. Analysis of Chosen Machine Learning Model <br>
+  1. R files: Categorical Variable R file and Numerical Variable R file <br> 
+  2. PDF file: Numerical Variable Markdown and Categorical Variable Markdown Variable Analysis <br>
+    1. Contains a written variable analysis that was completed in R Markdown and presented as a pdf file <br>
+4. Data Visualizations <br>
+5. Feature Selection <br>
+6. Analysis of Chosen Machine Learning Model <br>
