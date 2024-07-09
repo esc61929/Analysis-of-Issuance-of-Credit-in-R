@@ -15,3 +15,5 @@ Dataset: https: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility
   2. PDF file: Numerical Variable Markdown and Categorical Variable Markdown Variable Analysis <br>
     1. Contains a written variable analysis that was completed in R Markdown and presented as a pdf file <br>
 - Model Training and Analysis <br>
+  1. "Logistic-Regression-Credit-Project" PDF contains the R Markdown File explaining the code
+  2. The "R file for DA Project" contains the raw code
